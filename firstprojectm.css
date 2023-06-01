@@ -1,0 +1,35 @@
+@media (max-width: 500px) {
+  .inp1 {
+    display: none;
+  }
+  .navh{
+    height:170px;
+    
+  }
+  .ownmain {
+    display: flex;
+    flex-direction: column;
+  }
+  .imgown {
+    width: 400px;
+    height: 300px;
+  }
+  .packersmain {
+    display: flex;
+    flex-direction: column;
+  }
+  .savehomemain {
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+  }
+  .footermain {
+    display: none;
+  }
+
+.lastfooter{
+    display: flex;
+    flex-direction: column;
+}
+
+}
